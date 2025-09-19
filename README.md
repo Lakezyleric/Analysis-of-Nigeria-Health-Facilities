@@ -2,16 +2,16 @@
 
 ### Topic: Evaluating the Operational Status, Distribution and Accessibility of Health Infrastructure in Nigeria: A Descriptive Analysis to Address Healthcare Gaps.
 ### Table of Content
-- [Introdction](#Introduction)
+- [Introduction](#Introduction)
 - [Problem Statement](#Problem-Statement)
 - [Objectives](#Objectives)
 - [Insights](#Insights)
 
-#Introduction
+# Introduction
 The health system in Nigeria is characterized by a multitude of health facilities spanning primary, secondary, and tertiary levels of care. These facilities include primary health centers, dispensaries, general hospitals, maternity homes, specialist hospitals, and military or paramilitary clinics.
 A dataset that provides a nationwide inventory, detailing attributes such as functional status, category, facility type, accessibility, and geographic location—down to Local Government Areas (LGAs) and wards was obtained from the HDX website. This comprehensive dataset represents a critical tool that could be useful in evaluating health infrastructure readiness across Nigeria.
 
-Problem Statement
+# Problem Statement
 Despite the vast number of health facilities in Nigeria, many are either not functional or only partially functional. The ongoing insurgency and resulting displacement of populations have led to deterioration and inaccessibility of health services for many communities. The presence of numerous Internally Displaced Persons (IDP) camps further strains limited health resources. The lack of up-to-date information on the operational status, distribution, and types of health facilities restricts effective planning, resource allocation, and response efforts. To improve health outcomes and facilitate equitable healthcare access, there is an urgent need to systematically assess and monitor the functional condition and geographic spread of health facilities across Nigeria.
 
 Objectives
