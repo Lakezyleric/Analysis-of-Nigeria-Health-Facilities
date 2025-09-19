@@ -6,6 +6,7 @@
 - [Problem Statement](#Problem-Statement)
 - [Objectives](#Objectives)
 - [Insights](#Insights)
+- [Recommendations](#Recommendations)
 
 # Introduction
 The health system in Nigeria is characterized by a multitude of health facilities spanning primary, secondary, and tertiary levels of care. These facilities include primary health centers, dispensaries, general hospitals, maternity homes, specialist hospitals, and military or paramilitary clinics.
@@ -14,7 +15,7 @@ A dataset that provides a nationwide inventory, detailing attributes such as fun
 # Problem Statement
 Despite the vast number of health facilities in Nigeria, many are either not functional or only partially functional. The ongoing insurgency and resulting displacement of populations have led to deterioration and inaccessibility of health services for many communities. The presence of numerous Internally Displaced Persons (IDP) camps further strains limited health resources. The lack of up-to-date information on the operational status, distribution, and types of health facilities restricts effective planning, resource allocation, and response efforts. To improve health outcomes and facilitate equitable healthcare access, there is an urgent need to systematically assess and monitor the functional condition and geographic spread of health facilities across Nigeria.
 
-Objectives
+# Objectives
 Summarize the distribution of health facility types across regions.
 Assess the operational (functional) status and of facilities across regions.
 Evaluate the accessibility of  health facilities across regions.
@@ -22,7 +23,7 @@ Objectives
 Provide insights and recommendations for infrastructure improvement, resource allocation, and contingency planning.
 
 
-Insights
+# Insights
 Number of Facilities
 Total Health Facilities: 46,146
 Top 10 States with the Highest Facilities: (examples) Lagos, Kano, Rivers
@@ -56,7 +57,7 @@ Secondary facilities are more common than tertiary but still limited relative to
 
 
 
-Recommendations
+# Recommendations
 Rehabilitate non-functional and partially functional primary and secondary health facilities in conflict-affected areas.
 Establish new tertiary health facilities or upgrade existing secondary centers in under-served areas.
 Increase staffing, supplies, and operational support for existing primary and secondary facilities.
