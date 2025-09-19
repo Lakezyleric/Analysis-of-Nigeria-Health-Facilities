@@ -24,12 +24,12 @@ Despite the vast number of health facilities in Nigeria, many are either not fun
 
 
 # Insights
-#### Number of Facilities
+## Number of Facilities
 # Total Health Facilities: 46,146
-# Top 10 States with the Highest Facilities: (examples) Lagos, Kano, Rivers
-# Top 10 States with the Lowest Facilities: Bayelsa, Ekiti, Kebbi
-# States with at Least 1 Non-Functional Facility: (examples) Benue (42), Niger (24), Osun (11)
-# Top 5 LGAs with Least Facilities: Ike South (10), one other with 5, Damboa (6), etc.
+#### Top 10 States with the Highest Facilities: (examples) Lagos, Kano, Rivers
+#### Top 10 States with the Lowest Facilities: Bayelsa, Ekiti, Kebbi
+#### States with at Least 1 Non-Functional Facility: (examples) Benue (42), Niger (24), Osun (11)
+#### Top 5 LGAs with Least Facilities: Ike South (10), one other with 5, Damboa (6), etc.
 # Functionality of Facilities
 #### Fully Functional Facilities: 34,282
 #### Partially Functional Facilities: 11,760
