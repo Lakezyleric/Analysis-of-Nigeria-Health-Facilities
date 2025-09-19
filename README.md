@@ -1,9 +1,11 @@
-###Data Analysis Project
+#### Data Analysis Project
 
-##Topic: Evaluating the Operational Status, Distribution and Accessibility of Health Infrastructure in Nigeria: A Descriptive Analysis to Address Healthcare Gaps.
-##Table of Content
+### Topic: Evaluating the Operational Status, Distribution and Accessibility of Health Infrastructure in Nigeria: A Descriptive Analysis to Address Healthcare Gaps.
+### Table of Content
 - [Introdction](#Introduction)
-- 
+- [Problem Statement](#Problem-Statement)
+- [Objectives](#Objectives)
+- [Insights](#Insights)
 
 #Introduction
 The health system in Nigeria is characterized by a multitude of health facilities spanning primary, secondary, and tertiary levels of care. These facilities include primary health centers, dispensaries, general hospitals, maternity homes, specialist hospitals, and military or paramilitary clinics.
