@@ -52,6 +52,9 @@ Facility-Type Imbalances
 Overwhelming emphasis on primary care, reflecting health policy but potentially masking gaps at secondary/tertiary levels.
 Tertiary hospitals are scarce in the northern region and several states, threatening availability of specialized and referral services.
 Secondary facilities are more common than tertiary but still limited relative to primary.
+![Dashboard](https://github.com/Lakezyleric/Analysis-of-Nigeria-Health-Facilities/blob/main/Screenshot%202025-08-15%20144749.png)
+
+
 
 Recommendations
 Rehabilitate non-functional and partially functional primary and secondary health facilities in conflict-affected areas.
